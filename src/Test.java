@@ -2,7 +2,7 @@
  * This is a test file for the image reader.
  * 
  * Author: Tam Tin Cheung
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 
 import java.io.IOException;
